@@ -1,0 +1,3 @@
+﻿  5.cpp
+C:\Users\vlady\Desktop\university\c++\additional\5\5.cpp(15,17): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  5.vcxproj -> C:\Users\vlady\Desktop\university\c++\additional\5\x64\Debug\5.exe

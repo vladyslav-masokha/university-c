@@ -1,0 +1,3 @@
+C:/Users/Vladyslav Masokha/Desktop/University/c++/additional/dz1/cmake-build-debug/CMakeFiles/dz1.dir
+C:/Users/Vladyslav Masokha/Desktop/University/c++/additional/dz1/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Vladyslav Masokha/Desktop/University/c++/additional/dz1/cmake-build-debug/CMakeFiles/rebuild_cache.dir

@@ -1,0 +1,3 @@
+﻿  dz7.cpp
+C:\Users\vlady\Desktop\university\c++\additional\dz7\dz7.cpp(32,19): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  dz7.vcxproj -> C:\Users\vlady\Desktop\university\c++\additional\dz7\x64\Debug\dz7.exe

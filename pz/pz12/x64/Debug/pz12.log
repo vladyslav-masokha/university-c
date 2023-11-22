@@ -1,0 +1,4 @@
+﻿  pz12.cpp
+C:\Users\vlady\Desktop\university\c++\pz\pz12\pz12.cpp(44,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\vlady\Desktop\university\c++\pz\pz12\pz12.cpp(65,18): warning C4267: '=': conversion from 'size_t' to 'int', possible loss of data
+  pz12.vcxproj -> C:\Users\vlady\Desktop\university\c++\pz\pz12\x64\Debug\pz12.exe

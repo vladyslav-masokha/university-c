@@ -1,0 +1,3 @@
+﻿  lab4.cpp
+C:\Users\vlady\Desktop\university\c++\lab4\lab4.cpp(27,14): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  lab4.vcxproj -> C:\Users\vlady\Desktop\university\c++\lab4\x64\Debug\lab4.exe

@@ -1,0 +1,3 @@
+﻿  pz14.cpp
+C:\Users\vlady\Desktop\university\c++\pz\pz14\pz14.cpp(64,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  pz14.vcxproj -> C:\Users\vlady\Desktop\university\c++\pz\pz14\x64\Debug\pz14.exe

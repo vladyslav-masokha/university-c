@@ -10,7 +10,7 @@ int main() {
   SetConsoleOutputCP(1251);
 
   int matrix[ROWS][COLUMNS];
-  int sum, max1 = 0, max2 = 0;
+  int sum, max1 = 0, max2 = 0, avg;
   int iMax, jMax;
 
   for (size_t i = 0; i < ROWS; i++) {
@@ -38,11 +38,11 @@ int main() {
 
     for (size_t j = 0; j < COLUMNS; j++) {
       sum += matrix[i][j];
+    }
 
-      if (max1 < sum) {
-        max1 = sum;
-        iMax = i + 1;
-      }
+    if (max1 < sum) {
+      max1 = sum;
+      iMax = i + 1;
     }
   }
 

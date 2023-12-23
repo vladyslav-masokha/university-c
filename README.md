@@ -29,13 +29,11 @@ git clone https://github.com/vladyslav-masokha/university-c.git
 
 This repository contains the following projects:
 
-* [Course 1](course1)
-	+ [DZ](course1/dz)
-	+ [Lab](course1/lab)
-	+ [PZ](course1/pz)
-	+ [Assignment 1](course1/assignment1)
-	+ [Assignment 2](course1/assignment2)
-	+ [Personal Project](course1/personal-project)
+* [Course 1]
+	+ [DZ](dz)
+	+ [Lab](lab)
+	+ [PZ](pz)
+	+ [ADDITIONAL](additional)
 
 ## Contributing
 

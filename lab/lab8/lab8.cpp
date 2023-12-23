@@ -19,8 +19,6 @@ int main() {
   } while (numTask != 1 && numTask != 2);
 
   if (numTask == 1) {
-    // const int rows = 5, column = 5;
-    // const int rows = 7, column = 7;
     const int rows = 10, column = 10;
     int matrix[rows][column];
 
@@ -47,6 +45,7 @@ int main() {
         }
       }
     }
+
     cout << "\nМінімум з модулем: " << min << endl;
     cout << "Мінімум без модуля: " << -min << endl;
 
@@ -80,7 +79,7 @@ int main() {
     cout << "Виведення елементів у непарних стовпцях: " << endl;
     for (int i = 0; i < columns; i++) {
       for (int j = 0; j < rows; j++) {
-        if (j % 2 == 0) cout << matrix[j][i] << " ";
+        if (j % 2 != 0) cout << matrix[j][i] << " ";
       }
       cout << endl;
     }

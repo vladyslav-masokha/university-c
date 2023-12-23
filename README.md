@@ -44,7 +44,3 @@ If you would like to contribute to this repository, please follow these steps:
 3. Make your changes and commit them to your branch.
 4. Push your changes to your forked repository.
 5. Create a pull request from your branch to the original repository.
-
-## License
-
-This repository is licensed under the [MIT License](LICENSE).

@@ -1,0 +1,3 @@
+﻿  pz2.cpp
+C:\Users\vlady\Desktop\university\c++\pz_jan\pz2\pz2.cpp(58,13): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+  pz2.vcxproj -> C:\Users\vlady\Desktop\university\c++\pz_jan\pz2\x64\Debug\pz2.exe

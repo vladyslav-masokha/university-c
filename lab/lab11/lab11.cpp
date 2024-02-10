@@ -22,8 +22,8 @@ void printInfo(const BookStore& book) {
 }
 
 void printBooks(const vector<BookStore>& books) {
-  for (const auto& student : books) {
-    printInfo(student);
+  for (const auto& book : books) {
+    printInfo(book);
   }
 }
 
